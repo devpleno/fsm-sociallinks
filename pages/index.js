@@ -40,7 +40,7 @@ const Index = ({ data }) => {
         }
         <div className="text-center py-4">
           Projeto criado durante o evento Dev10k do <a href="http://devpleno.com/">Devpleno</a><br />
-          Código-fonte disponível em ...
+          Código-fonte disponível em: <a target="_blank" href="https://github.com/devpleno/fsm-sociallinks">https://github.com/devpleno/fsm-sociallinks</a>
         </div>
       </div>
     </div>
